@@ -14,6 +14,9 @@ While the design templates remained static, PHP, JavaScript, and AJAX were lever
 ![phpstore5](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/78823f72-db1c-4d6c-973c-9525e114547f)
 ![phpstore6](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/0160a179-08cf-4f48-84d8-1483b90dd1aa)
 ![phpstore7](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/18ca5b4b-9d17-4f5b-8aad-bc60cb91d7c6)
+![Screenshot 2024-04-05 165313](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/4278126d-3a5b-47fc-90dc-f5e77838484f)
+![Screenshot 2024-04-05 204054](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/c68d995e-4351-4336-8399-fb8ee72faa1e)
+![Screenshot 2024-04-05 204111](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/9591cf81-993b-46e8-945f-ae38616294e5)
 ![phpstore8](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/f9655c62-bb5c-47b4-a62d-5bd8c12db28d)
 ![phpstore9](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/e73bdb58-ca0f-44e5-9760-a37b6cbd5b4e)
 
