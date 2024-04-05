@@ -8,15 +8,14 @@ While the design templates remained static, PHP, JavaScript, and AJAX were lever
 ![Screenshot (551)](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/a66beb55-3ef9-4a0d-a08b-58c654d656d5)
 
 ![phpstore](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/10562141-f2db-4252-ad1f-65e6697d8cb9)
-![Uploading phpstore2.png…]()
+![phpstore2](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/c7094f34-25f6-485e-9320-7f39bec64cef)
 ![phpstore3](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/a22957af-e302-4725-81b4-43355d615a70)
-![Uploading phpstore9.png…]()
-
 ![phpstore4](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/3439f83b-ac66-47e2-b55f-744d940cb0de)
 ![phpstore5](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/78823f72-db1c-4d6c-973c-9525e114547f)
-![phpstore7](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/18ca5b4b-9d17-4f5b-8aad-bc60cb91d7c6)
-![Uploading phpstore8.png…]()
-
 ![phpstore6](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/0160a179-08cf-4f48-84d8-1483b90dd1aa)
+![phpstore7](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/18ca5b4b-9d17-4f5b-8aad-bc60cb91d7c6)
+![phpstore8](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/f9655c62-bb5c-47b4-a62d-5bd8c12db28d)
+![phpstore9](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/e73bdb58-ca0f-44e5-9760-a37b6cbd5b4e)
+
 
 
