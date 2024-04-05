@@ -1,1 +1,6 @@
 # full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces
+This project involved the creation of a dynamic e-commerce web application with separate interfaces for administrators/owners and users. The administrator interface featured functionalities such as product management for adding/editing product details, inventory control, and user management with three levels of permissions (owner, admin, supervisor). Users could interact through the messaging system, enabling communication between users and administrators.
+
+On the user side, the application provided a visually appealing interface to showcase popular products, categorized for easy navigation. Users could browse through products with detailed descriptions and make purchases seamlessly. The project's PHP backend ensured full dynamism, handling interactions between users, administrators, and the database.
+
+While the design templates remained static, PHP, JavaScript, and AJAX were leveraged to enhance interactivity, ensuring a smooth user experience. This project honed skills in PHP development, database management, and front-end interaction, equipping me with the knowledge to build dynamic and user-friendly e-commerce solutions.
