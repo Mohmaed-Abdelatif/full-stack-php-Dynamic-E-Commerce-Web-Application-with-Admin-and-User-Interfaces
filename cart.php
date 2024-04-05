@@ -127,7 +127,7 @@ if(isset($_GET["id"])){
               <li class="border-bottom my-2"></li>
               <li class="d-flex align-items-center justify-content-between mb-4"><strong class="text-uppercase small font-weight-bold">Total</strong><span>$<?= $total ?></span></li>
               <li>
-                <form action="fun/desteroy.php">
+                <form action="">
                   <div class="form-group mb-0">
                     <input class="form-control" type="text" placeholder="Enter your coupon">
                     <button class="btn btn-dark btn-sm btn-block" type="submit"> <i class="fas fa-gift mr-2"></i>Apply
