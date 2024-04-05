@@ -5,8 +5,8 @@ On the user side, the application provided a visually appealing interface to sho
 
 While the design templates remained static, PHP, JavaScript, and AJAX were leveraged to enhance interactivity, ensuring a smooth user experience. This project honed skills in PHP development, database management, and front-end interaction, equipping me with the knowledge to build dynamic and user-friendly e-commerce solutions.
 
+![Screenshot (551)](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/a66beb55-3ef9-4a0d-a08b-58c654d656d5)
 
-![Screenshot 2024-03-18 141751](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/4bb47058-5419-41b8-9e26-d9794cb8017b)
 ![phpstore](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/10562141-f2db-4252-ad1f-65e6697d8cb9)
 ![Uploading phpstore2.png…]()
 ![phpstore3](https://github.com/Mohmaed-Abdelatif/full-stack-php-Dynamic-E-Commerce-Web-Application-with-Admin-and-User-Interfaces/assets/146424722/a22957af-e302-4725-81b4-43355d615a70)
